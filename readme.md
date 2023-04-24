@@ -1,0 +1,1 @@
+Calculadora desenvolvida com HTML, CSS e JS, através do curso da Udemy, "Javascript e Typescript do básico ao avançado"

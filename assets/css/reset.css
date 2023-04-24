@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra:wght@400;600&family=Delicious+Handrawn&family=Montserrat:ital,wght@1,900&family=Shadows+Into+Light&display=swap");
+
+:root {
+  --fundo : rgba(0, 0, 0, 0.773);
+
+  --primary-color: rgba(100, 194, 245, 0.664);
+  --second-color: rgba(2, 55, 112, 0.611);
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+body{
+  background: var(--primary-color);
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+}
